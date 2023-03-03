@@ -64,6 +64,34 @@ https://www.spidyworld.cf/sun?key=spidy&id=26573
 
 
 
+#EXTINF: -1 tvg-id="47837" tvg-name="Kannada Star Suvarna HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Suvarna_News_2016.png" group-title="Kannada", Kannada Star Suvarna HD
+http://212.224.84.217:2200/R-EX/KANNADA_STAR_SUVARNA_HD-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47838" tvg-name="Kannada Colors Super" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/KANNADACOLORS2.png" group-title="Kannada", Kannada Colors Super
+http://212.224.84.217:2200/R-EX/KANNADA_COLORS_SUPER-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47840" tvg-name="Kannada Colors Movies HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadacolors.png" group-title="Kannada", Kannada Colors Movies HD
+http://212.224.84.217:2200/R-EX/KANNADA_COLORS_KANNADA_MOVIES-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47841" tvg-name="Kannada Udaya HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Udaya-Movies-Channel-logo.png" group-title="Kannada", Kannada Udaya HD
+http://212.224.84.217:2200/R-EX/KANNADA_UDAYA_HD-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47843" tvg-name="Kannada Udaya Comedy " tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadaudayacomdy.png" group-title="Kannada", Kannada Udaya Comedy
+http://212.224.84.217:2200/R-EX/KANNADA_UDAYA_COMEDY_-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47844" tvg-name="Kannada Udaya Movies" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Udaya-Movies-Channel-logo.png" group-title="Kannada", Kannada Udaya Movies
+http://212.224.84.217:2200/R-EX/KANNADA_UDAYA_MOVIES-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47846" tvg-name="Kannada BTV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadabtv1.png" group-title="Kannada", Kannada BTV
+http://212.224.84.217:2200/R-EX/KANNADA_BTV-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47848" tvg-name="Kannada Udaya Music" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadaudayamusc.png" group-title="Kannada", Kannada Udaya Music
+http://212.224.84.217:2200/R-EX/KANNADA_UDAYA_MUSIC-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47849" tvg-name="Kannada Raj Music" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadarahmuscc1.png" group-title="Kannada", Kannada Raj Music
+http://212.224.84.217:2200/R-EX/KANNADA_RAJ_MUSIC_KANNADA-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47851" tvg-name="Kannada Zee HD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee-kannada-in.png" group-title="Kannada", Kannada Zee HD
+http://212.224.84.217:2200/R-EX/KANNADA_ZEE_KANNADA_HD-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47853" tvg-name="Kannada Suvarna News" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Suvarna_News_2016.png" group-title="Kannada", Kannada Suvarna News
+http://212.224.84.217:2200/R-EX/KANNADA_SUVARNA_NEWS-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="47856" tvg-name="Kannada Public TV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Public-TV-kannada1.png" group-title="Kannada", Kannada Public TV
+http://212.224.84.217:2200/R-EX/KANNADA_PUBLIC_TV-in/index.m3u8?token=pinguimtv
+#EXTINF: -1 tvg-id="51259" tvg-name="Kannada Colors FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/colors-kannada-in.png" group-title="Kannada", Kannada Colors FHD
+http://212.224.84.217:2200/R-EX/FHD_KANNADA_COLORS_-in/index.m3u8?token=pinguimtv
+
+
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.ibb.co/rZnms76/IMG-20221112-231824-481.jpg" group-title="",[color yellow] Welcome to YOUZON TV App[/color]
 https://i.ibb.co/rZnms76/IMG-20221112-231824-481.jpg
