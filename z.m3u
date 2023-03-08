@@ -235,3 +235,353 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/19_270.png" group-title="Sports",SONY TEN 5 HD
 #https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Kannada" tvg-logo="http://77.247.109.54:80/images/73344361cd6c21a66718a8a15514bf40.png" group-title="IN: Indian South",IN: Zee Kannada
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123544.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZETC Bollywood" tvg-logo="http://5.44.253.151:80/images/28711bb45a5ba35bf86c55ef53a64d79.png" group-title="IN: Indian South",IN: ZETC Bollywood
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123561.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zoom" tvg-logo="http://163.123.140.162:80/images/60157405a4915c5bd76edcb2158a783d.png" group-title="IN: Indian South",IN: Zoom
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123563.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Public Music" tvg-logo="http://5.44.253.151:80/images/f12138e274282e9f200e9308e07eb894.png" group-title="IN: Indian South",IN: Public Music
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123574.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sonic nickelodeon" tvg-logo="http://77.247.109.54:80/images/34ac5a7d554d0bae5747bcb3aa6c8c27.png" group-title="IN: Indian South",IN: Sonic nickelodeon
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123575.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Big Magic Movies OK" tvg-logo="http://163.123.140.162:80/images/9370f6dacbb0bd1416d1e5c8ebac0b72.png" group-title="IN: Indian South",IN: Big Magic Movies OK
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123587.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC TV 18" tvg-logo="http://185.156.74.135:80/images/697cade18570c1eb2b894e5e74ceb184.png" group-title="IN: Indian South",IN: CNBC TV 18
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123590.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNN News18" tvg-logo="http://5.44.253.151:80/images/0c91be927574746bb7ef832fded764c1.png" group-title="IN: Indian South",IN: CNN News18
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123592.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Harvest TV Us" tvg-logo="http://185.156.74.135:80/images/1602868c10d2c0d12dfa3864e77a2ede.png" group-title="IN: Indian South",IN: Harvest TV Us
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123597.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Uttakhrand" tvg-logo="http://163.123.140.162:80/images/da833c361af8d6e4a896f8961b73ea07.png" group-title="IN: Indian South",IN: News 18 Uttakhrand
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123617.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj News Telugu" tvg-logo="http://163.123.140.162:80/images/a4f2d4bb83e7a33bbd15f0e5d6eba90b.png" group-title="IN: Indian South",IN: Raj News Telugu
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123620.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rishtey Cineplex" tvg-logo="http://185.156.74.135:80/images/d1e2d39d600f775b07ee416f67a04007.png" group-title="IN: Indian South",IN: Rishtey Cineplex
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123621.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sahara Samay TV" tvg-logo="http://163.123.140.162:80/images/a0320912023a2b0e286032f99c5c1ad6.png" group-title="IN: Indian South",IN: Sahara Samay TV
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123624.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: SVBC Telugu" tvg-logo="http://163.123.140.162:80/images/0be388d6e959ebac47bbde8a9047e1b4.png" group-title="IN: Indian South",IN: SVBC Telugu
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123626.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Visionternational" tvg-logo="http://5.44.253.151:80/images/8e65e3978cd5727fc39775a3b49d6bc2.png" group-title="IN: Indian South",IN: Tamil Visionternational
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123628.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Yuva Marathi" tvg-logo="http://77.247.109.54:80/images/fd2d7453a481d3354e9a0d4ec5a32156.png" group-title="IN: Indian South",IN: Zee Yuva Marathi
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123632.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zing US" tvg-logo="http://5.44.253.151:80/images/abc12f2278803aee35cdee00ee1239e7.png" group-title="IN: Indian South",IN: Zing US
+http://185.156.74.135:80/Daniel2022/Daniel2022/1123634.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hum Masala" tvg-logo="http://5.44.253.151:80/images/61bd5a66f00f91013d1c96680042f43e.png" group-title="IN: India Urdu",IN: Hum Masala
+http://185.156.74.135:80/Daniel2022/Daniel2022/770176.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: PEACE TV URDU" tvg-logo="http://163.123.140.162:80/images/a31749ee67e22fc5654e1cce6a6254da.png" group-title="IN: India Urdu",IN: PEACE TV URDU
+http://185.156.74.135:80/Daniel2022/Daniel2022/770309.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: ROZE NEWS" tvg-logo="http://5.44.253.151:80/images/fc2e3ba98c45f8377140cf4ba06d6f6f.png" group-title="IN: India Urdu",IN: ROZE NEWS
+http://185.156.74.135:80/Daniel2022/Daniel2022/770362.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prajaa Kannada TV" tvg-logo="http://185.156.74.135:80/images/e76f74cebe80478adf604fa23cb86fd7.png" group-title="IN: India Kannada",IN: Prajaa Kannada TV
+http://185.156.74.135:80/Daniel2022/Daniel2022/770317.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors Kannada HD" tvg-logo="http://185.156.74.135:80/images/c057b80fd1d235b183477766a698dff4.png" group-title="IN: India Kannada",IN: Colors Kannada HD
+http://185.156.74.135:80/Daniel2022/Daniel2022/1075266.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV Canada" tvg-logo="http://77.247.109.54:80/images/9b7545d710a6a286c2c9659f6d97d609.png" group-title="IN: India Kannada",IN: ZEE TV Canada
+http://185.156.74.135:80/Daniel2022/Daniel2022/1122379.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Udaya TV" tvg-logo="http://163.123.140.162:80/images/5b521d3996e6f7b2afbc245db001a4ea.png" group-title="IN: India Kannada",IN: Udaya TV
+http://185.156.74.135:80/Daniel2022/Daniel2022/1445250.ts
+#EXTINF:-1 tvg-name="Pushpa: The Rise - Part 1 (2021)" tvg-logo="http://185.156.74.135:80/images/6021feab145bf3023d06ebe2b29043ea.jpg" group-title="Movies - Kannada",Pushpa: The Rise - Part 1 (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089969.mkv
+#EXTINF:-1 tvg-name="Pushpa: The Rise - Part 1 (2021)" tvg-logo="http://5.44.253.151:80/images/6021feab145bf3023d06ebe2b29043ea.jpg" group-title="Server 5",Pushpa: The Rise - Part 1 (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089969.mkv
+#EXTINF:-1 tvg-name="Kurup (2021)" tvg-logo="http://185.156.74.135:80/images/dd23988f97357bd0fd2df6e74d249221.jpg" group-title="Movies - Kannada",Kurup (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089970.mkv
+#EXTINF:-1 tvg-name="Kurup (2021)" tvg-logo="http://185.156.74.135:80/images/dd23988f97357bd0fd2df6e74d249221.jpg" group-title="Server 5",Kurup (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089970.mkv
+#EXTINF:-1 tvg-name="Minnal Murali (2021)" tvg-logo="http://5.44.253.151:80/images/06543343a938d1fbc9cbc4a01bcb1aab.jpg" group-title="Movies - Kannada",Minnal Murali (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089971.mkv
+#EXTINF:-1 tvg-name="Minnal Murali (2021)" tvg-logo="http://163.123.140.162:80/images/06543343a938d1fbc9cbc4a01bcb1aab.jpg" group-title="Server 5",Minnal Murali (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089971.mkv
+#EXTINF:-1 tvg-name="The Magnificent Seven (2016)" tvg-logo="http://77.247.109.54:80/images/58eb3d1e52b165edbd7302e2c20a9551.jpg" group-title="Movies - Kannada",The Magnificent Seven (2016)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089972.mp4
+#EXTINF:-1 tvg-name="The Magnificent Seven (2016)" tvg-logo="http://185.156.74.135:80/images/58eb3d1e52b165edbd7302e2c20a9551.jpg" group-title="Server 5",The Magnificent Seven (2016)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089972.mp4
+#EXTINF:-1 tvg-name="Pogaru (2021)" tvg-logo="http://163.123.140.162:80/images/e50dbff6484845d959683aa5dc80e898.jpg" group-title="Movies - Kannada",Pogaru (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089976.mp4
+#EXTINF:-1 tvg-name="Pogaru (2021)" tvg-logo="http://77.247.109.54:80/images/e50dbff6484845d959683aa5dc80e898.jpg" group-title="Server 5",Pogaru (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089976.mp4
+#EXTINF:-1 tvg-name="Madhagaja (2021)" tvg-logo="http://77.247.109.54:80/images/cb3c6f4d45282107974ab76ee9c2cef3.jpg" group-title="Movies - Kannada",Madhagaja (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089978.mkv
+#EXTINF:-1 tvg-name="Madhagaja (2021)" tvg-logo="http://163.123.140.162:80/images/cb3c6f4d45282107974ab76ee9c2cef3.jpg" group-title="Server 5",Madhagaja (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089978.mkv
+#EXTINF:-1 tvg-name="V (2020)" tvg-logo="http://77.247.109.54:80/images/bde7ad6f70ee66f579c1afebb450a97d.jpg" group-title="Movies - Kannada",V (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089979.mp4
+#EXTINF:-1 tvg-name="V (2020)" tvg-logo="http://185.156.74.135:80/images/bde7ad6f70ee66f579c1afebb450a97d.jpg" group-title="Server 5",V (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089979.mp4
+#EXTINF:-1 tvg-name="Ramarjuna (2021)" tvg-logo="http://185.156.74.135:80/images/5b38e68b242386e6b9e95b8a5ecec4ad.jpg" group-title="Movies - Kannada",Ramarjuna (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089981.mkv
+#EXTINF:-1 tvg-name="Ramarjuna (2021)" tvg-logo="http://5.44.253.151:80/images/5b38e68b242386e6b9e95b8a5ecec4ad.jpg" group-title="Server 5",Ramarjuna (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089981.mkv
+#EXTINF:-1 tvg-name="Maara (2021)" tvg-logo="http://163.123.140.162:80/images/672fcf017a091661b12354f3e3dde469.jpg" group-title="Movies - Kannada",Maara (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089982.mp4
+#EXTINF:-1 tvg-name="Maara (2021)" tvg-logo="http://185.156.74.135:80/images/672fcf017a091661b12354f3e3dde469.jpg" group-title="Server 5",Maara (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089982.mp4
+#EXTINF:-1 tvg-name="Harry Potter and the Chamber of Secrets (2002)" tvg-logo="http://163.123.140.162:80/images/55270911dd73dd86011cdc25690cf6b9.jpg" group-title="Movies - Kannada",Harry Potter and the Chamber of Secrets (2002)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089984.mp4
+#EXTINF:-1 tvg-name="Harry Potter and the Chamber of Secrets (2002)" tvg-logo="http://5.44.253.151:80/images/55270911dd73dd86011cdc25690cf6b9.jpg" group-title="Server 5",Harry Potter and the Chamber of Secrets (2002)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089984.mp4
+#EXTINF:-1 tvg-name="Yuvarathnaa (2021)" tvg-logo="http://185.156.74.135:80/images/53108690c5fe72f8a726adf4082af1fc.jpg" group-title="Movies - Kannada",Yuvarathnaa (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089985.mp4
+#EXTINF:-1 tvg-name="Yuvarathnaa (2021)" tvg-logo="http://163.123.140.162:80/images/53108690c5fe72f8a726adf4082af1fc.jpg" group-title="Server 5",Yuvarathnaa (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089985.mp4
+#EXTINF:-1 tvg-name="Mundina Nildana (2019)" tvg-logo="http://163.123.140.162:80/images/dbde6bccabe128bd3138f19c833bf821.jpg" group-title="Movies - Kannada",Mundina Nildana (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089986.mp4
+#EXTINF:-1 tvg-name="Mundina Nildana (2019)" tvg-logo="http://5.44.253.151:80/images/dbde6bccabe128bd3138f19c833bf821.jpg" group-title="Server 5",Mundina Nildana (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089986.mp4
+#EXTINF:-1 tvg-name="Padde Huli" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies - Kannada",Padde Huli
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089987.mp4
+#EXTINF:-1 tvg-name="Padde Huli" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Server 5",Padde Huli
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089987.mp4
+#EXTINF:-1 tvg-name="Skyfire (2019)" tvg-logo="http://185.156.74.135:80/images/ff514361f0457df72f51eb1d4874f690.jpg" group-title="Movies - Kannada",Skyfire (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089988.mkv
+#EXTINF:-1 tvg-name="Skyfire (2019)" tvg-logo="http://77.247.109.54:80/images/ff514361f0457df72f51eb1d4874f690.jpg" group-title="Server 5",Skyfire (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089988.mkv
+#EXTINF:-1 tvg-name="Sarrainodu (2016)" tvg-logo="http://5.44.253.151:80/images/f78d5591c0642d18fc4068e452d3bcd7.jpg" group-title="Movies - Kannada",Sarrainodu (2016)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089990.mp4
+#EXTINF:-1 tvg-name="Sarrainodu (2016)" tvg-logo="http://163.123.140.162:80/images/f78d5591c0642d18fc4068e452d3bcd7.jpg" group-title="Server 5",Sarrainodu (2016)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089990.mp4
+#EXTINF:-1 tvg-name="Neuron (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies - Kannada",Neuron (1972)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089989.mp4
+#EXTINF:-1 tvg-name="Neuron (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Server 5",Neuron (1972)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089989.mp4
+#EXTINF:-1 tvg-name="Viruddha (2020)" tvg-logo="http://5.44.253.151:80/images/3ed721db0ae192138f87ebfbc6ec8f98.jpg" group-title="Movies - Kannada",Viruddha (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089995.mp4
+#EXTINF:-1 tvg-name="Viruddha (2020)" tvg-logo="http://5.44.253.151:80/images/3ed721db0ae192138f87ebfbc6ec8f98.jpg" group-title="Server 5",Viruddha (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089995.mp4
+#EXTINF:-1 tvg-name="O Premave (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies - Kannada",O Premave (1999)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089996.mp4
+#EXTINF:-1 tvg-name="O Premave (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Server 5",O Premave (1999)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089996.mp4
+#EXTINF:-1 tvg-name="Badava Rascal (2021)" tvg-logo="http://163.123.140.162:80/images/0206572c7d78b2a68eba6580f7f53e33.jpg" group-title="Movies - Kannada",Badava Rascal (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089997.mkv
+#EXTINF:-1 tvg-name="Badava Rascal (2021)" tvg-logo="http://185.156.74.135:80/images/0206572c7d78b2a68eba6580f7f53e33.jpg" group-title="Server 5",Badava Rascal (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089997.mkv
+#EXTINF:-1 tvg-name="Nenu Local (2017)" tvg-logo="http://185.156.74.135:80/images/2fd9e720d0b8f26b0efd7d693819d584.jpg" group-title="Movies - Kannada",Nenu Local (2017)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089998.mp4
+#EXTINF:-1 tvg-name="Nenu Local (2017)" tvg-logo="http://77.247.109.54:80/images/2fd9e720d0b8f26b0efd7d693819d584.jpg" group-title="Server 5",Nenu Local (2017)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089998.mp4
+#EXTINF:-1 tvg-name="Swartharatna (2018)" tvg-logo="http://163.123.140.162:80/images/e41d5c02bed60e62053b11058cce21b4.jpg" group-title="Movies - Kannada",Swartharatna (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089999.mp4
+#EXTINF:-1 tvg-name="Swartharatna (2018)" tvg-logo="http://185.156.74.135:80/images/e41d5c02bed60e62053b11058cce21b4.jpg" group-title="Server 5",Swartharatna (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089999.mp4
+#EXTINF:-1 tvg-name="Sinnga (2019)" tvg-logo="http://5.44.253.151:80/images/3267286b624fd68ae324bf47626806b2.jpg" group-title="Movies - Kannada",Sinnga (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090001.mp4
+#EXTINF:-1 tvg-name="Sinnga (2019)" tvg-logo="http://163.123.140.162:80/images/3267286b624fd68ae324bf47626806b2.jpg" group-title="Server 5",Sinnga (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090001.mp4
+#EXTINF:-1 tvg-name="Mane Maratakkide (2019)" tvg-logo="http://185.156.74.135:80/images/70e468e79e6e8d3ae5ad77c0119b17b2.jpg" group-title="Movies - Kannada",Mane Maratakkide (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090003.mp4
+#EXTINF:-1 tvg-name="Mane Maratakkide (2019)" tvg-logo="http://185.156.74.135:80/images/70e468e79e6e8d3ae5ad77c0119b17b2.jpg" group-title="Server 5",Mane Maratakkide (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090003.mp4
+#EXTINF:-1 tvg-name="Pencil Box (2020)" tvg-logo="http://77.247.109.54:80/images/14a766eb2614501ae7f292aa1b92a695.jpg" group-title="Movies - Kannada",Pencil Box (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090005.mp4
+#EXTINF:-1 tvg-name="Pencil Box (2020)" tvg-logo="http://5.44.253.151:80/images/14a766eb2614501ae7f292aa1b92a695.jpg" group-title="Server 5",Pencil Box (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090005.mp4
+#EXTINF:-1 tvg-name="Naanu Matthu Gunda (2020)" tvg-logo="http://77.247.109.54:80/images/f02ec2513d7cb5ddfb8018b661c1edf7.jpg" group-title="Movies - Kannada",Naanu Matthu Gunda (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090007.mp4
+#EXTINF:-1 tvg-name="Naanu Matthu Gunda (2020)" tvg-logo="http://185.156.74.135:80/images/f02ec2513d7cb5ddfb8018b661c1edf7.jpg" group-title="Server 5",Naanu Matthu Gunda (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090007.mp4
+#EXTINF:-1 tvg-name="Vrithra (2019)" tvg-logo="http://77.247.109.54:80/images/efcbf9391a69627c15e54da627f34ecc.jpg" group-title="Movies - Kannada",Vrithra (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090011.mp4
+#EXTINF:-1 tvg-name="Vrithra (2019)" tvg-logo="http://185.156.74.135:80/images/efcbf9391a69627c15e54da627f34ecc.jpg" group-title="Server 5",Vrithra (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090011.mp4
+#EXTINF:-1 tvg-name="Striker (1987)" tvg-logo="http://163.123.140.162:80/images/dcc98eee6b952b51ccfed1aa0d2a3743.jpg" group-title="Movies - Kannada",Striker (1987)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090013.mp4
+#EXTINF:-1 tvg-name="Striker (1987)" tvg-logo="http://185.156.74.135:80/images/dcc98eee6b952b51ccfed1aa0d2a3743.jpg" group-title="Server 5",Striker (1987)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090013.mp4
+#EXTINF:-1 tvg-name="Navelru... Half Boiled (2019)" tvg-logo="http://5.44.253.151:80/images/619a685864fafeb2828797a232adf17a.jpg" group-title="Movies - Kannada",Navelru... Half Boiled (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090015.mp4
+#EXTINF:-1 tvg-name="Navelru... Half Boiled (2019)" tvg-logo="http://185.156.74.135:80/images/619a685864fafeb2828797a232adf17a.jpg" group-title="Server 5",Navelru... Half Boiled (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090015.mp4
+#EXTINF:-1 tvg-name="Puttaraju Lover of Shashikala (2018)" tvg-logo="http://185.156.74.135:80/images/bcac9144f6eb7bda49dc7d9dc9c44b8f.jpg" group-title="Movies - Kannada",Puttaraju Lover of Shashikala (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090016.mp4
+#EXTINF:-1 tvg-name="Puttaraju Lover of Shashikala (2018)" tvg-logo="http://185.156.74.135:80/images/bcac9144f6eb7bda49dc7d9dc9c44b8f.jpg" group-title="Server 5",Puttaraju Lover of Shashikala (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090016.mp4
+#EXTINF:-1 tvg-name="Agnyaathavaasi (2018)" tvg-logo="http://185.156.74.135:80/images/f24fe1ff857a6a5f7b9812e4f283934d.jpg" group-title="Movies - Kannada",Agnyaathavaasi (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090018.mp4
+#EXTINF:-1 tvg-name="Agnyaathavaasi (2018)" tvg-logo="http://163.123.140.162:80/images/f24fe1ff857a6a5f7b9812e4f283934d.jpg" group-title="Server 5",Agnyaathavaasi (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090018.mp4
+#EXTINF:-1 tvg-name="Malgudi Days (2020)" tvg-logo="http://5.44.253.151:80/images/20de8fbd64ee8f8c5dfe9ff70b2788bb.jpg" group-title="Movies - Kannada",Malgudi Days (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090021.mp4
+#EXTINF:-1 tvg-name="Malgudi Days (2020)" tvg-logo="http://163.123.140.162:80/images/20de8fbd64ee8f8c5dfe9ff70b2788bb.jpg" group-title="Server 5",Malgudi Days (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090021.mp4
+#EXTINF:-1 tvg-name="Sye Raa Narasimha Reddy (2019)" tvg-logo="http://5.44.253.151:80/images/d856d97886603c3a6d4a794ff5979191.jpg" group-title="Movies - Kannada",Sye Raa Narasimha Reddy (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090023.mp4
+#EXTINF:-1 tvg-name="Sye Raa Narasimha Reddy (2019)" tvg-logo="http://163.123.140.162:80/images/d856d97886603c3a6d4a794ff5979191.jpg" group-title="Server 5",Sye Raa Narasimha Reddy (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090023.mp4
+#EXTINF:-1 tvg-name="Rewind (2021)" tvg-logo="http://185.156.74.135:80/images/105be4985c420a047a00fca8f8e84e67.jpg" group-title="Movies - Kannada",Rewind (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090026.mkv
+#EXTINF:-1 tvg-name="Rewind (2021)" tvg-logo="http://163.123.140.162:80/images/105be4985c420a047a00fca8f8e84e67.jpg" group-title="Server 5",Rewind (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090026.mkv
+#EXTINF:-1 tvg-name="Software Sudheer (2019)" tvg-logo="http://163.123.140.162:80/images/8eb14aa8b30f179f89ff340b1eceeb0b.jpg" group-title="Movies - Kannada",Software Sudheer (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090028.mp4
+#EXTINF:-1 tvg-name="Software Sudheer (2019)" tvg-logo="http://5.44.253.151:80/images/8eb14aa8b30f179f89ff340b1eceeb0b.jpg" group-title="Server 5",Software Sudheer (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090028.mp4
+#EXTINF:-1 tvg-name="RangiTaranga (2015)" tvg-logo="http://77.247.109.54:80/images/d45baf5da51b122995537b66e2882e43.jpg" group-title="Movies - Kannada",RangiTaranga (2015)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090029.mp4
+#EXTINF:-1 tvg-name="RangiTaranga (2015)" tvg-logo="http://163.123.140.162:80/images/d45baf5da51b122995537b66e2882e43.jpg" group-title="Server 5",RangiTaranga (2015)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090029.mp4
+#EXTINF:-1 tvg-name="Tagaru (2018)" tvg-logo="http://163.123.140.162:80/images/1584598b4e656809813b5798ef95ff1c.jpg" group-title="Movies - Kannada",Tagaru (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090034.mp4
+#EXTINF:-1 tvg-name="Tagaru (2018)" tvg-logo="http://5.44.253.151:80/images/1584598b4e656809813b5798ef95ff1c.jpg" group-title="Server 5",Tagaru (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090034.mp4
+#EXTINF:-1 tvg-name="Mayabazar (1957)" tvg-logo="http://163.123.140.162:80/images/a5d6917e8df68e7d16215bd5e524fb20.jpg" group-title="Movies - Kannada",Mayabazar (1957)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090035.mp4
+#EXTINF:-1 tvg-name="Mayabazar (1957)" tvg-logo="http://77.247.109.54:80/images/a5d6917e8df68e7d16215bd5e524fb20.jpg" group-title="Server 5",Mayabazar (1957)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090035.mp4
+#EXTINF:-1 tvg-name="Bhajarangi 2 (2021)" tvg-logo="http://185.156.74.135:80/images/963d9895acd2858439f7b63b41805894.jpg" group-title="Movies - Kannada",Bhajarangi 2 (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090036.mkv
+#EXTINF:-1 tvg-name="Bhajarangi 2 (2021)" tvg-logo="http://163.123.140.162:80/images/963d9895acd2858439f7b63b41805894.jpg" group-title="Server 5",Bhajarangi 2 (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090036.mkv
+#EXTINF:-1 tvg-name="Soorarai Pottru (2020)" tvg-logo="http://5.44.253.151:80/images/0d99ac7c1dd3c3403aa21c5c006dbd73.jpg" group-title="Movies - Kannada",Soorarai Pottru (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090037.mp4
+#EXTINF:-1 tvg-name="Soorarai Pottru (2020)" tvg-logo="http://163.123.140.162:80/images/0d99ac7c1dd3c3403aa21c5c006dbd73.jpg" group-title="Server 5",Soorarai Pottru (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090037.mp4
+#EXTINF:-1 tvg-name="Nanna Prakara (2019)" tvg-logo="http://5.44.253.151:80/images/bb19f483c4b24c5411a546659c38f24a.jpg" group-title="Movies - Kannada",Nanna Prakara (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090038.mp4
+#EXTINF:-1 tvg-name="Nanna Prakara (2019)" tvg-logo="http://185.156.74.135:80/images/bb19f483c4b24c5411a546659c38f24a.jpg" group-title="Server 5",Nanna Prakara (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090038.mp4
+#EXTINF:-1 tvg-name="Mugana Sedu" tvg-logo="http://185.156.74.135:80/images/4bd25ee12bbc8168c114ec3ecbf604c3.jpg" group-title="Movies - Kannada",Mugana Sedu
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090039.mp4
+#EXTINF:-1 tvg-name="Mugana Sedu" tvg-logo="http://185.156.74.135:80/images/4bd25ee12bbc8168c114ec3ecbf604c3.jpg" group-title="Server 5",Mugana Sedu
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090039.mp4
+#EXTINF:-1 tvg-name="Mounam (2020)" tvg-logo="http://163.123.140.162:80/images/bc7d988910ba8136196978e85484037c.jpg" group-title="Movies - Kannada",Mounam (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090040.mp4
+#EXTINF:-1 tvg-name="Mounam (2020)" tvg-logo="http://163.123.140.162:80/images/bc7d988910ba8136196978e85484037c.jpg" group-title="Server 5",Mounam (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090040.mp4
+#EXTINF:-1 tvg-name="Maya Kannadi (2020)" tvg-logo="http://163.123.140.162:80/images/c7ca58ebe431f066d7dae451afa986e0.jpg" group-title="Movies - Kannada",Maya Kannadi (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090043.mp4
+#EXTINF:-1 tvg-name="Muddy (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies - Kannada",Muddy (2017)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089973.mkv
+#EXTINF:-1 tvg-name="Muddy (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Server 5",Muddy (2017)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089973.mkv
+#EXTINF:-1 tvg-name="Wild Dog (2021)" tvg-logo="http://163.123.140.162:80/images/c48ae58eeab7aae2c170b0e4cfeaf2b8.jpg" group-title="Movies - Kannada",Wild Dog (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089974.mkv
+#EXTINF:-1 tvg-name="Wild Dog (2021)" tvg-logo="http://77.247.109.54:80/images/c48ae58eeab7aae2c170b0e4cfeaf2b8.jpg" group-title="Server 5",Wild Dog (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089974.mkv
+#EXTINF:-1 tvg-name="Rangasthalam (2018)" tvg-logo="http://5.44.253.151:80/images/16850e275365f3ebb3666efba6b953f5.jpg" group-title="Movies - Kannada",Rangasthalam (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089975.mp4
+#EXTINF:-1 tvg-name="Rangasthalam (2018)" tvg-logo="http://185.156.74.135:80/images/16850e275365f3ebb3666efba6b953f5.jpg" group-title="Server 5",Rangasthalam (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089975.mp4
+#EXTINF:-1 tvg-name="Pogaru (2021)" tvg-logo="http://5.44.253.151:80/images/e50dbff6484845d959683aa5dc80e898.jpg" group-title="Movies - Kannada",Pogaru (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089977.mp4
+#EXTINF:-1 tvg-name="Pogaru (2021)" tvg-logo="http://77.247.109.54:80/images/e50dbff6484845d959683aa5dc80e898.jpg" group-title="Server 5",Pogaru (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089977.mp4
+#EXTINF:-1 tvg-name="Manne No 13 (2020)" tvg-logo="http://77.247.109.54:80/images/20a8aba143c00f84a94f4ab4145d4db7.jpg" group-title="Movies - Kannada",Manne No 13 (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089980.mp4
+#EXTINF:-1 tvg-name="Manne No 13 (2020)" tvg-logo="http://163.123.140.162:80/images/20a8aba143c00f84a94f4ab4145d4db7.jpg" group-title="Server 5",Manne No 13 (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089980.mp4
+#EXTINF:-1 tvg-name="Middle Class Melodies (2020)" tvg-logo="http://77.247.109.54:80/images/2cff8d5d49e2ebc293f78dadd9ce34ff.jpg" group-title="Movies - Kannada",Middle Class Melodies (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089983.mp4
+#EXTINF:-1 tvg-name="Middle Class Melodies (2020)" tvg-logo="http://77.247.109.54:80/images/2cff8d5d49e2ebc293f78dadd9ce34ff.jpg" group-title="Server 5",Middle Class Melodies (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089983.mp4
+#EXTINF:-1 tvg-name="MLA Mani: Patham Classum Gusthiyum (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies - Kannada",MLA Mani: Patham Classum Gusthiyum (2012)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089991.mp4
+#EXTINF:-1 tvg-name="MLA Mani: Patham Classum Gusthiyum (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Server 5",MLA Mani: Patham Classum Gusthiyum (2012)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089991.mp4
+#EXTINF:-1 tvg-name="Nasha (2013)" tvg-logo="http://185.156.74.135:80/images/e2c2fae2ba158ca2f0e5d3cd7eec7c1f.jpg" group-title="Movies - Kannada",Nasha (2013)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089992.mkv
+#EXTINF:-1 tvg-name="Nasha (2013)" tvg-logo="http://185.156.74.135:80/images/e2c2fae2ba158ca2f0e5d3cd7eec7c1f.jpg" group-title="Server 5",Nasha (2013)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089992.mkv
+#EXTINF:-1 tvg-name="Roberrt (2021)" tvg-logo="http://5.44.253.151:80/images/65f57d3e531a3f42dc973c4a65229e1b.jpg" group-title="Movies - Kannada",Roberrt (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089993.mp4
+#EXTINF:-1 tvg-name="Roberrt (2021)" tvg-logo="http://163.123.140.162:80/images/65f57d3e531a3f42dc973c4a65229e1b.jpg" group-title="Server 5",Roberrt (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089993.mp4
+#EXTINF:-1 tvg-name="Vijayaratha (2019)" tvg-logo="http://77.247.109.54:80/images/66f3a03999e9471e62f0c6bb1002038f.jpg" group-title="Movies - Kannada",Vijayaratha (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089994.mp4
+#EXTINF:-1 tvg-name="Vijayaratha (2019)" tvg-logo="http://185.156.74.135:80/images/66f3a03999e9471e62f0c6bb1002038f.jpg" group-title="Server 5",Vijayaratha (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2089994.mp4
+#EXTINF:-1 tvg-name="Ramarajya (2018)" tvg-logo="http://163.123.140.162:80/images/0da0d6932c2f65dedf3b0bc94b928c68.jpg" group-title="Movies - Kannada",Ramarajya (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090000.mp4
+#EXTINF:-1 tvg-name="Ramarajya (2018)" tvg-logo="http://185.156.74.135:80/images/0da0d6932c2f65dedf3b0bc94b928c68.jpg" group-title="Server 5",Ramarajya (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090000.mp4
+#EXTINF:-1 tvg-name="Sri Bharatha Baahubali (2020)" tvg-logo="http://5.44.253.151:80/images/4086982550c3e0d1d1f97392f683a32f.jpg" group-title="Movies - Kannada",Sri Bharatha Baahubali (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090002.mp4
+#EXTINF:-1 tvg-name="Sri Bharatha Baahubali (2020)" tvg-logo="http://5.44.253.151:80/images/4086982550c3e0d1d1f97392f683a32f.jpg" group-title="Server 5",Sri Bharatha Baahubali (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090002.mp4
+#EXTINF:-1 tvg-name="Garuda Gamana Vrishabha Vahana (2021)" tvg-logo="http://163.123.140.162:80/images/a2fbcb46b18159e349288a9f1db1e102.jpg" group-title="Movies - Kannada",Garuda Gamana Vrishabha Vahana (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090004.mkv
+#EXTINF:-1 tvg-name="Garuda Gamana Vrishabha Vahana (2021)" tvg-logo="http://77.247.109.54:80/images/a2fbcb46b18159e349288a9f1db1e102.jpg" group-title="Server 5",Garuda Gamana Vrishabha Vahana (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090004.mkv
+#EXTINF:-1 tvg-name="Ondu Shikariya Kathe (2020)" tvg-logo="http://163.123.140.162:80/images/6fa13263c8837ed604c87fd77fc36e4b.jpg" group-title="Movies - Kannada",Ondu Shikariya Kathe (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090006.mp4
+#EXTINF:-1 tvg-name="Ondu Shikariya Kathe (2020)" tvg-logo="http://163.123.140.162:80/images/6fa13263c8837ed604c87fd77fc36e4b.jpg" group-title="Server 5",Ondu Shikariya Kathe (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090006.mp4
+#EXTINF:-1 tvg-name="Mukunda Murari (2016)" tvg-logo="http://185.156.74.135:80/images/f4254f4ce46670be8d102d3e5c9896c9.jpg" group-title="Movies - Kannada",Mukunda Murari (2016)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090008.mp4
+#EXTINF:-1 tvg-name="Mukunda Murari (2016)" tvg-logo="http://77.247.109.54:80/images/f4254f4ce46670be8d102d3e5c9896c9.jpg" group-title="Server 5",Mukunda Murari (2016)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090008.mp4
+#EXTINF:-1 tvg-name="Manaroopa (2019)" tvg-logo="http://185.156.74.135:80/images/0dd5c15e4a9390fa7f997a26d37cd65b.jpg" group-title="Movies - Kannada",Manaroopa (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090009.mp4
+#EXTINF:-1 tvg-name="Manaroopa (2019)" tvg-logo="http://185.156.74.135:80/images/0dd5c15e4a9390fa7f997a26d37cd65b.jpg" group-title="Server 5",Manaroopa (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090009.mp4
+#EXTINF:-1 tvg-name="Randhawa (2019)" tvg-logo="http://163.123.140.162:80/images/c5e1efae800908b0bc60e8478e93ba2f.jpg" group-title="Movies - Kannada",Randhawa (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090010.mkv
+#EXTINF:-1 tvg-name="Randhawa (2019)" tvg-logo="http://5.44.253.151:80/images/c5e1efae800908b0bc60e8478e93ba2f.jpg" group-title="Server 5",Randhawa (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090010.mkv
+#EXTINF:-1 tvg-name="Seetharam Benoy (2021)" tvg-logo="http://163.123.140.162:80/images/b7739b3b10dc9c81ebea26fa062fa1c2.jpg" group-title="Movies - Kannada",Seetharam Benoy (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090012.mkv
+#EXTINF:-1 tvg-name="Seetharam Benoy (2021)" tvg-logo="http://185.156.74.135:80/images/b7739b3b10dc9c81ebea26fa062fa1c2.jpg" group-title="Server 5",Seetharam Benoy (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090012.mkv
+#EXTINF:-1 tvg-name="Advocate (2019)" tvg-logo="http://77.247.109.54:80/images/625af7ce1aa4d6a78819001c12242f96.jpg" group-title="Movies - Kannada",Advocate (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090014.mkv
+#EXTINF:-1 tvg-name="Advocate (2019)" tvg-logo="http://5.44.253.151:80/images/625af7ce1aa4d6a78819001c12242f96.jpg" group-title="Server 5",Advocate (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090014.mkv
+#EXTINF:-1 tvg-name="Shailaja Reddy Alludu (2018)" tvg-logo="http://77.247.109.54:80/images/452b9ade3c4b64bd312ffc6ecb925573.jpg" group-title="Movies - Kannada",Shailaja Reddy Alludu (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090017.mp4
+#EXTINF:-1 tvg-name="Shailaja Reddy Alludu (2018)" tvg-logo="http://185.156.74.135:80/images/452b9ade3c4b64bd312ffc6ecb925573.jpg" group-title="Server 5",Shailaja Reddy Alludu (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090017.mp4
+#EXTINF:-1 tvg-name="Urvi (2017)" tvg-logo="http://5.44.253.151:80/images/0fc8cc7989970cecc6ca30412a44ab21.jpg" group-title="Movies - Kannada",Urvi (2017)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090019.mp4
+#EXTINF:-1 tvg-name="Urvi (2017)" tvg-logo="http://185.156.74.135:80/images/0fc8cc7989970cecc6ca30412a44ab21.jpg" group-title="Server 5",Urvi (2017)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090019.mp4
+#EXTINF:-1 tvg-name="Odeya (2019)" tvg-logo="http://77.247.109.54:80/images/f57b91b00f95de8ae76685d5eb4ae6dd.jpg" group-title="Movies - Kannada",Odeya (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090020.mp4
+#EXTINF:-1 tvg-name="Odeya (2019)" tvg-logo="http://5.44.253.151:80/images/f57b91b00f95de8ae76685d5eb4ae6dd.jpg" group-title="Server 5",Odeya (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090020.mp4
+#EXTINF:-1 tvg-name="Nathicharami (2018)" tvg-logo="http://163.123.140.162:80/images/e32e83c69782f0284fbaded7f0dba3b8.jpg" group-title="Movies - Kannada",Nathicharami (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090022.mp4
+#EXTINF:-1 tvg-name="Nathicharami (2018)" tvg-logo="http://5.44.253.151:80/images/e32e83c69782f0284fbaded7f0dba3b8.jpg" group-title="Server 5",Nathicharami (2018)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090022.mp4
+#EXTINF:-1 tvg-name="Nam Gani B.Com Pass (2019)" tvg-logo="http://185.156.74.135:80/images/6a8f4535c45fbe66c38b6a45a090dd95.jpg" group-title="Movies - Kannada",Nam Gani B.Com Pass (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090024.mp4
+#EXTINF:-1 tvg-name="Nam Gani B.Com Pass (2019)" tvg-logo="http://5.44.253.151:80/images/6a8f4535c45fbe66c38b6a45a090dd95.jpg" group-title="Server 5",Nam Gani B.Com Pass (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090024.mp4
+#EXTINF:-1 tvg-name="Operation Nakshatra (2019)" tvg-logo="http://185.156.74.135:80/images/de27c9c9e1d427604e2ea6e138b827d2.jpg" group-title="Movies - Kannada",Operation Nakshatra (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090025.mp4
+#EXTINF:-1 tvg-name="Operation Nakshatra (2019)" tvg-logo="http://185.156.74.135:80/images/de27c9c9e1d427604e2ea6e138b827d2.jpg" group-title="Server 5",Operation Nakshatra (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090025.mp4
+#EXTINF:-1 tvg-name="Majili (2019)" tvg-logo="http://5.44.253.151:80/images/9e93cd96da1425824c7c230ab87142b5.jpg" group-title="Movies - Kannada",Majili (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090027.mp4
+#EXTINF:-1 tvg-name="Majili (2019)" tvg-logo="http://185.156.74.135:80/images/9e93cd96da1425824c7c230ab87142b5.jpg" group-title="Server 5",Majili (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090027.mp4
+#EXTINF:-1 tvg-name="Vajramukhi (2019)" tvg-logo="http://5.44.253.151:80/images/81e394e01759d4ed0a5a768ea0ed1a60.jpg" group-title="Movies - Kannada",Vajramukhi (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090030.mp4
+#EXTINF:-1 tvg-name="Vajramukhi (2019)" tvg-logo="http://185.156.74.135:80/images/81e394e01759d4ed0a5a768ea0ed1a60.jpg" group-title="Server 5",Vajramukhi (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090030.mp4
+#EXTINF:-1 tvg-name="Mahira (2019)" tvg-logo="http://77.247.109.54:80/images/ec7591da0bbab5bd4a4cdae24f2489ad.jpg" group-title="Movies - Kannada",Mahira (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090031.mp4
+#EXTINF:-1 tvg-name="Mahira (2019)" tvg-logo="http://185.156.74.135:80/images/ec7591da0bbab5bd4a4cdae24f2489ad.jpg" group-title="Server 5",Mahira (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090031.mp4
+#EXTINF:-1 tvg-name="Ratnamanjari (2019)" tvg-logo="http://185.156.74.135:80/images/b2dfdd98fc8396bf7dbeff57e6dd5c10.jpg" group-title="Movies - Kannada",Ratnamanjari (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090032.mp4
+#EXTINF:-1 tvg-name="Ratnamanjari (2019)" tvg-logo="http://163.123.140.162:80/images/b2dfdd98fc8396bf7dbeff57e6dd5c10.jpg" group-title="Server 5",Ratnamanjari (2019)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090032.mp4
+#EXTINF:-1 tvg-name="Karkhanisanchi Waari (2020)" tvg-logo="http://5.44.253.151:80/images/7a8736174f8934d666d6c91ea0637b73.jpg" group-title="Movies - Kannada",Karkhanisanchi Waari (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090033.mkv
+#EXTINF:-1 tvg-name="Karkhanisanchi Waari (2020)" tvg-logo="http://5.44.253.151:80/images/7a8736174f8934d666d6c91ea0637b73.jpg" group-title="Server 5",Karkhanisanchi Waari (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090033.mkv
+#EXTINF:-1 tvg-name="Nishabdham (2020)" tvg-logo="http://5.44.253.151:80/images/934df1c14fbea64598c3637feb828a33.jpg" group-title="Movies - Kannada",Nishabdham (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090041.mp4
+#EXTINF:-1 tvg-name="Nishabdham (2020)" tvg-logo="http://5.44.253.151:80/images/934df1c14fbea64598c3637feb828a33.jpg" group-title="Server 5",Nishabdham (2020)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090041.mp4
+#EXTINF:-1 tvg-name="Govinda Govinda (2021)" tvg-logo="http://163.123.140.162:80/images/9956d0f7d1c5d58b8533f71b0daa80fd.jpg" group-title="Movies - Kannada",Govinda Govinda (2021)
+http://185.156.74.135:80/movie/Daniel2022/Daniel2022/2090042.mkv
