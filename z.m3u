@@ -195,6 +195,78 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600728952
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
+#EXTINF:-1 group-title="HBO",HBO LATINO R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
+#EXTINF:-1 group-title="HBO",HBO ESTE
+http://txm.flysat.live:2089/152018884933620/152021106724749/198408
+#EXTINF:-1 group-title="HBO",HBO SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
+#EXTINF:-1 group-title="HBO",HBO
+http://iptvglobal.site:25461/rrtv/rrtv12345/87462
+#EXTINF:-1 group-title="HBO",HBO HD IN
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
+#EXTINF:-1 group-title="HBO",HBO HD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140173
+#EXTINF:-1 group-title="HBO",HBO
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126316
+#EXTINF:-1 group-title="HBO",HBO 2
+http://txm.flysat.live:2089/152018884933620/152021106724749/198412
+#EXTINF:-1 group-title="HBO",HBO 2 SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
+#EXTINF:-1 group-title="HBO",HBO 2
+http://iptvglobal.site:25461/rrtv/rrtv12345/131122
+#EXTINF:-1 group-title="HBO",HBO 2 HD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
+#EXTINF:-1 group-title="HBO",HBO PLUS
+http://txm.flysat.live:2089/152018884933620/152021106724749/198411
+#EXTINF:-1 group-title="HBO",HBO PLUS
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140175
+#EXTINF:-1 group-title="HBO",HBO PLUS
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/64059
+#EXTINF:-1 group-title="HBO",HBO Plus SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60993
+#EXTINF:-1 group-title="HBO",HBO Plus
+http://iptvglobal.site:25461/rrtv/rrtv12345/87463
+#EXTINF:-1 group-title="HBO",Hbo Plus
+http://iptvglobal.site:25461/rrtv/rrtv12345/131117
+#EXTINF:-1 group-title="HBO",HBO PLUS
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
+#EXTINF:-1 group-title="HBO",HBO FAMILY
+http://txm.flysat.live:2089/152018884933620/152021106724749/198410
+#EXTINF:-1 group-title="HBO",HBO Family SD
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60992
+#EXTINF:-1 group-title="HBO",Hbo Family
+http://iptvglobal.site:25461/rrtv/rrtv12345/131118
+#EXTINF:-1 group-title="HBO",HBO FAMILY HD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
+#EXTINF:-1 group-title="HBO",HBO FAMILY R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE
+http://txm.flysat.live:2089/152018884933620/152021106724749/198409
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE HD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140177
+#EXTINF:-1 group-title="HBO",HBO Xtreme FHD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59135
+#EXTINF:-1 group-title="HBO",HBO XTREME FHD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126312
+#EXTINF:-1 group-title="HBO",HBO XTREME HD R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126313
+#EXTINF:-1 group-title="HBO",HBO EXTREME
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140179
+#EXTINF:-1 group-title="HBO",HBO Pop FHD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59134
+#EXTINF:-1 group-title="HBO",HBO POP R
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126310
+#EXTINF:-1 group-title="HBO",HBO Mundi FHD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59133
+#EXTINF:-1 group-title="HBO",HBO MUNDI HD
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126317
+#EXTINF:-1 group-title="HBO",HBO MUNDI
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140178
+
+
 
 #EXTINF1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_244.png" group-title="Sony Liv",SONY HD
 #https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
